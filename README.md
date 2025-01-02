@@ -185,12 +185,10 @@ page 4
 ```
 
 ## OUTPUT:
-```
-![alt text](image.png)
-![alt text](image-1.png)
-c:\Users\admin\Pictures\Screenshots\Screenshot (80).png
-c:\Users\admin\Pictures\Screenshots\Screenshot (81).png
-```
 
+![alt text](<Screenshot (78).png>)
+![alt text](<Screenshot (79).png>)
+![alt text](<Screenshot (80).png>)
+![alt text](<Screenshot (81).png>)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
